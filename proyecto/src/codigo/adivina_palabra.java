@@ -83,4 +83,3 @@ public class adivina_palabra {
 		int aleatorio = numeros.nextInt(palabras.length);
 		return palabras[aleatorio];
 	}
-}
