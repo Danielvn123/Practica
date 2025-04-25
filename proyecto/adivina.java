@@ -77,7 +77,7 @@ public class adivina_palabra {
 	}
 
 	public static String generaPalabraAleatoria() {
-		String[] palabras = { "java", "github", "git commit", "git add", "dani", "carmen","fran queremos un 10",
+		String[] palabras = { "java", "github", "git commit", "git push", "dani", "carmen","fran queremos un 10",
  };
 		Random numeros = new Random();
 		int aleatorio = numeros.nextInt(palabras.length);
